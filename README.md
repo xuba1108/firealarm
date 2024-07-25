@@ -1,0 +1,2 @@
+# firealarm
+Mini Project FireAlarm
